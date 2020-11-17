@@ -1,0 +1,9 @@
+{
+    "growi_token": "GROWIのトークン",
+    "slack_token":"SLACKのuserトークン",
+    "backup_period": "バックアップ期間(0だとすべて取得)",
+    "limit": "メッセージ取得件数" ,
+    "channel": ["取得したいチャンネルのID"] ,
+    "growi_article_path": "記事を投稿する先のGROWIのパス",
+    "growi_uri": "GROWIのURL"
+}
