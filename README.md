@@ -1,0 +1,2 @@
+# slack_to_growi
+slackからチャンネルのメッセージ取得してgrowiに記事投稿
